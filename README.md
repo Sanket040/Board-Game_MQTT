@@ -2,7 +2,7 @@
 Implementation of Board Game using MQTT
 
 
-- To run first you need to start HiveMq 
+- To run first you need to start AWS 
     - then run activity.sh file by running following commands
     	- chmod +x activity.sh
     	- ./activity.sh
